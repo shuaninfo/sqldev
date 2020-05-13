@@ -44,7 +44,7 @@
 
 ## Install 安装及使用日志
 
-[使用及安装文档](http://www.shuaninfo.com)
+[使用及安装文档](http://www.shuaninfo.com/product)
   
 ## About 联系方式
    
