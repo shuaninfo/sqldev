@@ -1,22 +1,28 @@
 <p align="center">
-        <img  src="img/logo.png">
+        <img  src="img/logo.png" width="50%">
 </p>
 
-# SQLDev数据库运维管理平台
-![](https://img.shields.io/badge/build-release-brightgreen.svg)  
+
+# SQLDev 数据库运维管理平台
+![](https://img.shields.io/badge/build-release-brightgreen.svg)  
 ![](https://img.shields.io/badge/version-v2.2.0-brightgreen.svg)  
 
-#### mysql oracle mssql mongodb web端 SQL审核平台。
+#### SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操作审计为一体的数据库安全运维工具平台。
+
+
 
 ## Website 官网
 
-[www.sqldev.info](http://sqldev.info
+[sqldev.info](http://sqldev.info)
 
 
 
-## 技术支持
-   Sqldev (Go) 使用交流     WeChat: freeman983
-## 功能
+### 技术支持
+   Sqldev (Go) 使用交流     WeChat: freeman983   QQ群:1090030375
+
+
+
+### 主要功能
 
 - SQL 
     - DQL 
@@ -44,21 +50,21 @@
     - CAS登录 
     - LDAP登录 
     - OAUTH2登录 
-        
+      
 
 
-## Install 安装及使用日志
+### Install 安装及使用日志
 
 [使用及安装文档](http://sqldev.info/bk/)
-  
-## About 联系方式
-   
-   E-mail: chengyong@shuaninfo.com
 
-## Snapshot 效果展示
+
+### About 联系方式
+
+E-mail: chengyong@shuaninfo.com
+
+### Snapshot 效果展示
 
 - Login
-
 
 
 ![login](img/login.png)
