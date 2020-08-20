@@ -10,7 +10,7 @@
 
 ## Website 官网
 
-[www.shuaninfo.com](http://shuaninfo.com)
+[www.sqldev.info](http://sqldev.info
 
 
 
@@ -49,7 +49,7 @@
 
 ## Install 安装及使用日志
 
-[使用及安装文档](http://www.shuaninfo.com/product)
+[使用及安装文档](http://sqldev.info/bk/)
   
 ## About 联系方式
    
@@ -88,7 +88,7 @@
 
 
 
-2020 © ShuanInfo
+2020 © sqldev.info
 
 
 
