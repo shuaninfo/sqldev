@@ -19,6 +19,8 @@
 </p>
 SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操作审计为一体的数据库安全运维工具平台
 
+
+
 **[产品官网](http://sqldev.info/)**
 
 **[使用文档](http://sqldev.info/bk)**
@@ -60,37 +62,58 @@ SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操�
       
 
 
+
 ## 效果展示
 
-- Login
+- 用户登录
 
-<img src="img/login.png" alt="login" style="zoom:50%;" />
+<img src="img/login.png" alt="login" style="zoom:40%;" />
 
 
-- Dashboard
 
-<img src="img/dashboard.png" alt="dashboard" style="zoom:50%;" />
+
+- 平台统计
+
+<img src="img/dashboard.png" alt="dashboard" style="zoom:40%;" />
+
+
+
 
 - 数据脱敏
 
-<img src="img/mask.png" alt="mask" style="zoom:50%;" />
+<img src="img/mask.png" alt="mask" style="zoom:40%;" />
+
+
+
 
 - 语法补全
 
-<img src="img/light.png" alt="light" style="zoom:50%;" />
+<img src="img/light.png" alt="light" style="zoom:40%;" />
+
+
+
 
 - 数据查询
 
-<img src="img/query.png" alt="query" style="zoom:50%;" />
+<img src="img/query.png" alt="query" style="zoom:40%;" />
+
+
 
 - 数据更新
 
-<img src="img/update.png" alt="update" style="zoom:50%;" />
+<img src="img/update.png" alt="update" style="zoom:40%;" />
+
+
+
+- 日志审计
+
+<img src="img/log.png" alt="log" style="zoom:40%;" />
+
+
 
 - 细粒度的权限分配
 
-<img src="img/role.png" alt="role" style="zoom:50%;" />
-
+<img src="img/role.png" alt="role" style="zoom:40%;" />
 
 
 ## 技术支持
