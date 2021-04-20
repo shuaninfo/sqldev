@@ -50,11 +50,12 @@ SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操�
     - webhook推送   
 - 用户权限及管理
     - 多角色
+    - 多项目
     - 细粒度权限到字段级别
     - 查询、修改、导出可独立赋权
 - 适配
     - 引擎：Oracle、Mysql、MongoDb、MSsql、Redis、MyCat
-    - 环境：自有机房、阿里云、aws、腾讯云     
+    - 环境：自有机房、阿里云、aws、腾讯云    
 - 集成
     - CAS登录 
     - LDAP登录 
