@@ -1,50 +1,57 @@
+<h1 align="center">Welcome to SQLDEV </h1>
+
+
+
 <p align="center">
-        <img  src="img/logo.png" width="50%">
+        <img  src="img/logo.png" width="30%">
 </p>
 
 
-# SQLDev 数据库运维管理平台
-![](https://img.shields.io/badge/build-release-brightgreen.svg)  
-![](https://img.shields.io/badge/version-v2.2.0-brightgreen.svg)  
+# SQLDev 企业数据库统一管理服务平台
 
-#### SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操作审计为一体的数据库安全运维工具平台。
+<p>
+  <img src="https://img.shields.io/badge/build-release-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/version-v2.1.0-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/go report-A+-brightgreen.svg" />
+  <a href="https://chaitin.github.io/xray/#/">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
+  </a>
+</p>
+SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操作审计为一体的数据库安全运维工具平台
+
+**[产品官网](http://sqldev.info/)**
+
+**[使用文档](http://sqldev.info/bk)**
+
+**[下载地址](https://github.com/shuaninfo/sqldev/releases)**
 
 
 
-## Website 官网
-
-[sqldev.info](http://sqldev.info)
-
-
-
-### 技术支持
-   Sqldev (Go) 使用交流     WeChat: freeman983   QQ群:1090030375
-
-
-
-### 主要功能
+## 主要功能
 
 - SQL 
     - DQL 
     - DML
+    - DDL
     - 数据导出
     - 自动补全，智能提示 
     - 查询语句审计
     - 异步查询
     - 动态脱敏
 - SQL审核
-    - 流程化工单（待实现）
+    - 流程化工单
     - SQL语句检测与执行
-    - SQL回滚（待实现）
+    - SQL回滚
     - 历史审核记录
 - 推送
-    - E-mail推送   
+    - E-mail推送
+    - webhook推送   
 - 用户权限及管理
     - 多角色
     - 细粒度权限到字段级别
     - 查询、修改、导出可独立赋权
 - 适配
-    - 引擎：Oracle、Mysql、MongoDb、MSsql
+    - 引擎：Oracle、Mysql、MongoDb、MSsql、Redis、MyCat
     - 环境：自有机房、阿里云、aws、腾讯云     
 - 集成
     - CAS登录 
@@ -53,45 +60,41 @@
       
 
 
-### Install 安装及使用日志
-
-[使用及安装文档](http://sqldev.info/bk/)
-
-
-### About 联系方式
-
-E-mail: chengyong@shuaninfo.com
-
-### Snapshot 效果展示
+## 效果展示
 
 - Login
 
-
-![login](img/login.png)
+<img src="img/login.png" alt="login" style="zoom:50%;" />
 
 
 - Dashboard
 
-![](img/dashboard.png)
+<img src="img/dashboard.png" alt="dashboard" style="zoom:50%;" />
 
 - 数据脱敏
 
-![](img/mask.png)
+<img src="img/mask.png" alt="mask" style="zoom:50%;" />
 
-- SQL语法高亮及自动补全
+- 语法补全
 
-![](img/light.png)
+<img src="img/light.png" alt="light" style="zoom:50%;" />
 
-- 查询
+- 数据查询
 
-![](img/query.png)
+<img src="img/query.png" alt="query" style="zoom:50%;" />
+
+- 数据更新
+
+<img src="img/update.png" alt="update" style="zoom:50%;" />
 
 - 细粒度的权限分配
 
-![](img/role.png)
+<img src="img/role.png" alt="role" style="zoom:50%;" />
 
 
 
+## 技术支持
+   Sqldev (Go) 使用交流     WeChat: freeman983   QQ群:1090030375
 
 
 2020 © sqldev.info
