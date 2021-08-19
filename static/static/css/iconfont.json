@@ -6,6 +6,167 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "3338423",
+      "name": "上行宽带",
+      "font_class": "shanghangkuandai",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "3338424",
+      "name": "下行宽带",
+      "font_class": "xiahangkuandai",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "3901930",
+      "name": "拓扑图_安全服务器",
+      "font_class": "tuoputu_anquanfuwuqi",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "521020",
+      "name": "服务器管理",
+      "font_class": "fuwuqiguanli",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "3229220",
+      "name": "sql",
+      "font_class": "liebiaotubiao-SOLzhuanhuan-",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "7551229",
+      "name": "表格",
+      "font_class": "zu",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "1023020",
+      "name": "icon_storeddetail_compass",
+      "font_class": "iconstoreddetailcompass",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1761475",
+      "name": "等待",
+      "font_class": "dengdai",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "1790024",
+      "name": "函数",
+      "font_class": "hanshu",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "2333308",
+      "name": "闪电",
+      "font_class": "shandian",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "3851373",
+      "name": "视图模式",
+      "font_class": "shitumoshi",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "4179136",
+      "name": "视图模式",
+      "font_class": "view-mode",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "5243849",
+      "name": "Lua函数",
+      "font_class": "Luahanshu",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "5978713",
+      "name": "trigger",
+      "font_class": "chufa",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "7036715",
+      "name": "触发",
+      "font_class": "chufa1",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "8300924",
+      "name": "等待",
+      "font_class": "dengdai1",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "11399578",
+      "name": "函数模板",
+      "font_class": "hanshumoban",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "16230918",
+      "name": "主键",
+      "font_class": "zhujian",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "16278873",
+      "name": "触发",
+      "font_class": "chufa2",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "16365878",
+      "name": "普通视图",
+      "font_class": "putongshitu",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "19665049",
+      "name": "函数",
+      "font_class": "Function",
+      "unicode": "eaef",
+      "unicode_decimal": 60143
+    },
+    {
+      "icon_id": "19848194",
+      "name": "闪电",
+      "font_class": "shandian1",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "21093538",
+      "name": "等待",
+      "font_class": "dengdai2",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
       "icon_id": "15105174",
       "name": "执行",
       "font_class": "zhihang11",
