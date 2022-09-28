@@ -31,26 +31,25 @@ function install(){
 		redis-server /etc/redis.conf
 	fi
 
-    mPass=""
+  mysqlPass="sqlDev_Com2022"
 	if [[ `command -v mysqld` ]];then
 		echo "======> 已安装mysql"
 	else
 		echo '======> 开始安装mysql ...'
 		wget http://repo.mysql.com/mysql57-community-release-el7-10.noarch.rpm
+		rpm --import https://repo.mysql.com/RPM-GPG-KEY-mysql-2022
 		rpm -Uvh mysql57-community-release-el7-10.noarch.rpm
 		yum install  -y  mysql-community-server
 		service mysqld start
 		mysqlInitPass=`grep 'temporary password' /var/log/mysqld.log| awk '{print $11}'`
 		echo "======> MYSQL安装密码 $mysqlInitPass"
-        mysqlPass="sql&@DevFree2020"
-        mysqladmin -P 3306 -u root -p${mysqlInitPass} password "$mysqlPass"
-        echo "======> MYSQL密码修改为[ $mysqlPass ], 请记录"
-        mPass=${mysqlPass}
-    fi    
+    mysqladmin -P 3306 -u root -p${mysqlInitPass} password "$mysqlPass"
+    echo "======> MYSQL密码修改为[ $mysqlPass ], 请记录"
+  fi
 
-    echo "======> 初始化sqldev数据库"
-	mysql -uroot -p${mPass}  -e "CREATE DATABASE IF NOT EXISTS sqldev DEFAULT CHARSET utf8 COLLATE utf8_general_ci;" 
-	echo "======> 安装sqldev完成,请执行 sh start.sh 启动应用。"
+  echo "======> 初始化sqldev数据库"
+	mysql -u root -p${mysqlPass}  -e "CREATE DATABASE IF NOT EXISTS sqldev DEFAULT CHARSET utf8 COLLATE utf8_general_ci;"
+	echo "======> 安装sqldev完成,请执行 sh run.sh 启动应用。"
 }
 
 
