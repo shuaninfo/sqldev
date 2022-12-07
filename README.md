@@ -129,7 +129,11 @@ SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操�
 
 
 ## 技术支持
-   Sqldev (Go) 使用交流     WeChat: freeman983   QQ群:1090030375
+   Sqldev (Go) 使用交流     WeChat: freeman983
+
+扫描二维码，添加小助手后拉您进群
+
+![wechat](./img/WechatIMG565.png)
 
 
 2020 © sqldev.info
