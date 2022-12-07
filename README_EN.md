@@ -21,9 +21,9 @@
 
 
 
-**[Website](https://sqldev.info/)**
+**[Website](https://sqldev.info/en)**
 
-**[Document](https://shuaninfo.github.io/sqldevdoc/)**
+**[Document](https://shuaninfo.github.io/sqldevdoc/en/)**
 
 **[Download](https://github.com/shuaninfo/sqldev/releases)**
 
