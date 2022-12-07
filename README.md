@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to SQLDEV </h1>
 
-
+[**简体中文**](README.md) · [**English**](./README_EN.md)
 
 <p align="center">
         <img  src="img/logo.png" width="30%">
@@ -21,9 +21,9 @@ SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操�
 
 
 
-**[产品官网](http://sqldev.info/)**
+**[产品官网](https://sqldev.info/)**
 
-**[使用文档](http://sqldev.info/doc)**
+**[使用文档](https://shuaninfo.github.io/sqldevdoc/)**
 
 **[下载地址](https://github.com/shuaninfo/sqldev/releases)**
 
@@ -31,35 +31,31 @@ SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操�
 
 ## 主要功能
 
-- SQL 
-    - DQL 
-    - DML
-    - DDL
-    - 数据导出
-    - 自动补全，智能提示 
-    - 查询语句审计
-    - 异步查询
-    - 动态脱敏
-- SQL审核
-    - 流程化工单
-    - SQL语句检测与执行
-    - SQL回滚
-    - 历史审核记录
-- 推送
-    - E-mail推送
-    - webhook推送   
-- 用户权限及管理
-    - 多角色
-    - 多项目
-    - 细粒度权限到字段级别
-    - 查询、修改、导出可独立赋权
-- 适配
-    - 引擎：Oracle、MySQL、MongoDb、MSSQL、Redis、MyCat
-    - 环境：自有机房、阿里云、aws、腾讯云    
-- 集成
-    - CAS登录 
-    - LDAP登录 
-    - OAUTH2登录 
+- 执行SQL(DQL/DML/DDL/TCL)
+
+- 数据导入/导出
+
+- 自动补全，智能提示
+
+- 审计、拦截、告警
+
+- 敏感数据动态脱敏
+
+- 告警通知(MAIL、短信、IM)
+
+- 细粒度权限管控（字段级别/行级管控）
+
+- 支持多项目多角色
+
+- 支持定制工单触发场景和审核流程
+
+- 支持数据库引擎：Oracle、MySQL、MongoDB、MS SQL、DB2、TDEngine、Hive、Redis、DaMeng、TIDB、ClickHouse、Greenplum、MariaDB 等
+
+- 支持部署环境：自有机房、阿里云、aws、腾讯云
+
+- 支持信创环境及中间件部署
+
+- 支持集成第三方登录（CAS/LDAP/OAUTH2)
       
 
 
