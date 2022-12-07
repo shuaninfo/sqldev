@@ -7,7 +7,7 @@
     </p>
 
 
-# SQLDev Enterprise Database Unified Management Service Platform
+# SQLDev Secure And Efficient Database Management
 
 <p>
     <img src="https://img.shields.io/badge/build-release-brightgreen.svg" />
