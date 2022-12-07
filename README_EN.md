@@ -123,17 +123,10 @@
 
 
 ## Technical Support
-Sqldev (Go) Usage Exchange WeChat: freeman983
+Sqldev (Go) Usage Exchange Telegram Group
 
-Scan the QR code, add the assistant and pull you into the group
-
-![wechat](./img/WechatIMG565.png)
+https://t.me/sqldev_group
 
 
 2020 © sqldev.info
 
-
-
-
-
-Translated with www.DeepL.com/Translator (free version)
