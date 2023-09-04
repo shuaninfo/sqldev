@@ -23,10 +23,13 @@ SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操�
 
 **[产品官网](https://sqldev.info/)**
 
+<img src="img/official-website.png" alt="login" style="zoom:40%;" />
+
 **[使用文档](https://shuaninfo.github.io/sqldevdoc/)**
 
 **[下载地址](https://github.com/shuaninfo/sqldev/releases)**
 
+**[Bilibili](https://space.bilibili.com/3493093640767841)**
 
 ## 在线体验
 
